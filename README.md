@@ -26,11 +26,11 @@ $ python main.py
 
 Using LINE notify can send the automatic announcement when have object detected
 
-<img src= "./asset/notify.JPG" >
+<img src= "./asset/notify.jpg" >
 
 Then the system will automatically upload the picture to cloud storage (Dropbox)
 
-<img src="./asset/dropbox.JPG" > 
+<img src="./asset/dropbox.jpg" > 
 
 ### Video demo 
 
