@@ -37,3 +37,5 @@ Then the system will automatically upload the picture to cloud storage (Dropbox)
 <video width="700" controls>
   <source src="./asset/Produce_0.mp4" type="video/mp4">
 </video>
+
+![](./asset/Produce_0.mp4)
