@@ -22,15 +22,15 @@ $ python main.py
 
 ### Motion detection based on face detection open-cv
 
-<img src ="./asset/detect.jpg" >
+<img src ="./asset/detect.JPG" >
 
 Using LINE notify can send the automatic announcement when have object detected
 
-<img src= "./asset/notify.jpg" >
+<img src= "./asset/notify.JPG" >
 
 Then the system will automatically upload the picture to cloud storage (Dropbox)
 
-<img src="./asset/dropbox.jpg" > 
+<img src="./asset/dropbox.JPG" > 
 
 ### Video demo 
 
