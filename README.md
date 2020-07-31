@@ -38,4 +38,4 @@ Then the system will automatically upload the picture to cloud storage (Dropbox)
   <source src="asset/Produce_0.mp4" type="video/mp4">
 </video>
 
-![](./asset/Produce_0.mp4)
+![](https://youtu.be/q0oBydkTq3U)
