@@ -34,8 +34,4 @@ Then the system will automatically upload the picture to cloud storage (Dropbox)
 
 ### Video demo 
 
-<video width="700" controls>
-  <source src="asset/Produce_0.mp4" type="video/mp4">
-</video>
-
-![](https://youtu.be/q0oBydkTq3U)
+[![video demo](http://img.youtube.com/vi/q0oBydkTq3U/0.jpg)](https://www.youtube.com/watch?v=q0oBydkTq3U "video demo")
